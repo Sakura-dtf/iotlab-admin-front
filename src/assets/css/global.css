@@ -1,0 +1,57 @@
+.mgl-35p{
+    margin-left: 35%;
+}
+
+.mgl-550{
+    margin-left: 550px;
+}
+
+.mgl-40{
+    margin-left: 40px;
+}
+
+.mgl-650{
+    margin-left: 650px;
+}
+
+.pdt-21{
+    padding-top: 21px;
+}
+
+.pdt-24{
+    padding-top: 24px;
+}
+
+.mh-500{
+    min-height: 500px;
+}
+
+.mh-300{
+    min-height: 300px;
+}
+
+.mgt-20{
+    margin-top: 20px;
+}
+
+.mgt-10{
+    margin-top: 10px;
+}
+
+.mh-450{
+    min-height: 450px;
+}
+
+@media screen and (max-width: 600px){
+    .col-xs-12{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
